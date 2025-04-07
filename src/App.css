@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+nav {
+ 
+  height: 5em;
+  background-color: blue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 4em;
+  padding-right: 4em;
+}
+
+.cardBox {
+
+  background-color: blue;
+
+}
+
+.cardVoyage {
+  background-color: red;
+}
+
+
+
+.footerStyle {
+  background-color: blue;
+  height: 5em;
+  width: 100%;
+}
