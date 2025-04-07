@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
 * {
   margin: 0;
 }
@@ -5,7 +7,8 @@
 nav {
  
   height: 5em;
-  background-color: blue;
+  background-color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -13,20 +16,55 @@ nav {
   padding-right: 4em;
 }
 
+nav img {
+  height: 5em;
+}
+
+
+.Menu ul{
+  display: flex;
+  gap: 5em;
+  list-style-type: none;
+}
+
+.Menu a {
+  text-decoration: none;
+  color: black;
+}
+
+.Menu a:hover {
+  color: pink;
+  transition: 0.5s;
+}
+
 .cardBox {
 
-  background-color: blue;
+  background-color: none;
+  padding: 10em;
 
 }
 
 .cardVoyage {
-  background-color: red;
+  outline: solid red 1px;
 }
 
 
 
 .footerStyle {
-  background-color: blue;
-  height: 5em;
+  background-color: darkgray;
+  height: 10em;
   width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footerStyle ul {
+  list-style-type: none;
+
+}
+
+.footerStyle a {
+  text-decoration: none;
+  color: black;
 }

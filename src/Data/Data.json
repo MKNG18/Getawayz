@@ -4,56 +4,56 @@
       "title": "Évasion à Bali",
       "description": "Profitez de plages paradisiaques, de rizières verdoyantes et d'une culture unique.",
       "prix": 1299,
-      "image": "https://example.com/images/bali.jpg"
+      "image": "src/indonesie.jpg"
     },
     {
       "id": 2,
       "title": "Roadtrip en Islande",
       "description": "Explorez les paysages lunaires, les cascades et les volcans de l'Islande.",
       "prix": 1890,
-      "image": "https://example.com/images/islande.jpg"
+      "image": "src/islande.jpg"
     },
     {
       "id": 3,
       "title": "Safari en Tanzanie",
       "description": "Partez à la rencontre des Big Five dans les plus belles réserves naturelles.",
       "prix": 2490,
-      "image": "https://example.com/images/tanzanie.jpg"
+      "image": "src/tanzanie.jpg"
     },
     {
       "id": 4,
       "title": "Séjour à Tokyo",
       "description": "Un mélange fascinant entre tradition japonaise et ultra-modernité.",
       "prix": 1640,
-      "image": "https://example.com/images/tokyo.jpg"
+      "image": "src/japon.jpg"
     },
     {
       "id": 5,
       "title": "Aventure au Pérou",
       "description": "Randonnez jusqu'au Machu Picchu et découvrez les mystères incas.",
       "prix": 1730,
-      "image": "https://example.com/images/perou.jpg"
+      "image": "src/perou.jpg"
     },
     {
       "id": 6,
       "title": "Détente aux Maldives",
       "description": "Séjournez dans un bungalow sur l’eau et profitez d’eaux turquoise incroyables.",
       "prix": 2990,
-      "image": "https://example.com/images/maldives.jpg"
+      "image": "src/maldives.jpg"
     },
     {
       "id": 7,
       "title": "Week-end à Rome",
       "description": "Découvrez la dolce vita, les ruines antiques et une gastronomie inoubliable.",
       "prix": 790,
-      "image": "https://example.com/images/rome.jpg"
+      "image": "src/rome.jpg"
     },
     {
       "id": 8,
       "title": "Expédition en Patagonie",
       "description": "Marchez au bout du monde entre glaciers, montagnes et lacs d'altitude.",
       "prix": 2150,
-      "image": "https://example.com/images/patagonie.jpg"
+      "image": "src/patagonie.jpg"
     }
   ]
   
